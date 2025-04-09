@@ -44,7 +44,7 @@ To run this project locally, open the Terminal and follow these steps:
     git clone https://github.com/arthurtran04/Simple-Transaction-App.git
     ```
 
-5. Install the required dependencies:
+2. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
@@ -60,18 +60,25 @@ To start the Flask application, run the `cd` command to change the directory to 
    ```
 This application will run locally at `http://127.0.0.1:5000`:
 
-<img width="600rem" alt="Screenshot 2025-04-05 lúc 01 29 30" src="https://github.com/user-attachments/assets/d33cc90b-1999-4905-aac3-690455e6a28c" />
+<img width="600rem" alt="Terminal" src="https://github.com/user-attachments/assets/db277f46-ce27-4e43-b608-78608aa9876c" />
 
-<img width="600rem" alt="Screenshot 2025-04-05 lúc 01 32 01" src="https://github.com/user-attachments/assets/2b614832-3549-4e72-8c93-5468c182121f" />
+<img width="600rem" alt="Webpage" src="https://github.com/user-attachments/assets/e09c9aab-d7e0-4fcc-b853-882c553ec6a1" />
 
-On the webpage, there are 5 basic arithmetic operations you can try like `Add`, `Subtract`, `Multiply`, `Divide` and `Modulo`:
+On the webpage, there are **three** features you can try like `Add Transaction`, `Edit` and `Delete`:
 
-<img width="600rem" alt="Screenshot 2025-04-05 lúc 01 37 20" src="https://github.com/user-attachments/assets/2e95ab54-9dbb-494e-b25d-2f1dda7f5ec8" />
+1. Add:</br>
+    <img width="600px" alt="Add" src="https://github.com/user-attachments/assets/a7ead3dc-9553-486d-9aba-e7f650c309cb" />
+2. Edit:</br>
+    <img width="600px" alt="Edit" src="https://github.com/user-attachments/assets/8f73e472-7175-4116-bd49-3c9fef2cdbda" />
+4. Delete:</br>
+    <img width="600px" alt="Delete" src="https://github.com/user-attachments/assets/757fa2f5-9eb4-4664-89cb-423fdccfd1f5" />
 
-Additionally, you can also use different routes include `/sum`, `/sub`, `/mul`, `/div` and `/mod`.
-You need to asign a value to two parameters `num1` and `num2` into the URL to calculate, example `http://127.0.0.1:5000/div?num1=2.1&num2=3.2` (`num1 = 2.1`, `num2 = 3.2`)
+Additionally, you can also use different routes, including `/search` and `/balance`.
 
-<img width="600rem" alt="Ảnh chụp Màn hình 2025-04-05 lúc 01 51 43" src="https://github.com/user-attachments/assets/d2b03b25-ca64-460e-bea3-c01e4dc6140b" />
+5. Search:</br>
+    <img width="600px" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
+6. Balance:</br>
+    <img width="600px" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
 
 ## License
 
