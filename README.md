@@ -69,18 +69,18 @@ This application will run locally at `http://127.0.0.1:5000`:
 On the webpage, there are **three** features you can try like `Add Transaction`, `Edit` and `Delete`:
 
 1. Add:</br>
-    <img width="600px" alt="Add" src="https://github.com/user-attachments/assets/a7ead3dc-9553-486d-9aba-e7f650c309cb" />
+    <img width="200rem" alt="Add" src="https://github.com/user-attachments/assets/a7ead3dc-9553-486d-9aba-e7f650c309cb" />
 2. Edit:</br>
-    <img width="600px" alt="Edit" src="https://github.com/user-attachments/assets/8f73e472-7175-4116-bd49-3c9fef2cdbda" />
+    <img width="200rem" alt="Edit" src="https://github.com/user-attachments/assets/8f73e472-7175-4116-bd49-3c9fef2cdbda" />
 4. Delete:</br>
-    <img width="600px" alt="Delete" src="https://github.com/user-attachments/assets/757fa2f5-9eb4-4664-89cb-423fdccfd1f5" />
+    <img width="200rem" alt="Delete" src="https://github.com/user-attachments/assets/757fa2f5-9eb4-4664-89cb-423fdccfd1f5" />
 
 Additionally, you can also use different routes, including `/search` and `/balance`.
 
 5. Search:</br>
-    <img width="600px" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
+    <img width="200rem" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
 6. Balance:</br>
-    <img width="600px" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
+    <img width="200rem" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
 
 ## License
 
