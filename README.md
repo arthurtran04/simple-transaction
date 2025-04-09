@@ -14,17 +14,14 @@
 ## Project Structure
 
 ```
-Basic-Math-App/
-├── Maths/
-│   ├── __init__.py
-│   ├── mathematics.py
-│   └── __pycache__/
-│       ├── __init__.cpython-312.pyc
-│       └── mathematics.cpython-312.pyc
-├── static/
-│   └── script.js
+Simple-Transaction-App/
+├── __pycache__/
+│   └── app.cpython-311.pyc
 ├── templates/
-│   └── index.html
+│   ├── edit.html
+│   ├── form.html
+│   ├── search.html
+│   └── transactions.html
 ├── app.py
 ├── requirements.txt
 ├── LICENSE
@@ -33,9 +30,9 @@ Basic-Math-App/
 
 ## Features
 
-- Simple Flask web application for basic math
+- Simple transaction application with Flask
 - Basic routing
-- Basic HTML, JavaScript
+- Basic HTML, JavaScript and Bootstrap
 
 ## Installation
 
@@ -44,7 +41,7 @@ To run this project locally, open the Terminal and follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/arthurtran04/Basic-Math-App.git
+    git clone https://github.com/arthurtran04/Simple-Transaction-App.git
     ```
 
 5. Install the required dependencies:
@@ -55,11 +52,11 @@ To run this project locally, open the Terminal and follow these steps:
 
 ## Usage
 
-To start the Flask application, run the `cd` command to change the directory to `Basic-Math-App` and run the `app.py` file:
+To start the Flask application, run the `cd` command to change the directory to `Simple-Transaction-App` and run the `app.py` file:
 
    ```bash
-   cd Basic-Math-App
-   python3.12 app.py
+   cd ./Simple-Transaction-App
+   python app.py
    ```
 This application will run locally at `http://127.0.0.1:5000`:
 
