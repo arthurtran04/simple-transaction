@@ -2,6 +2,8 @@
 
 ## Introduction
 
+The **Simple Transaction App** is a lightweight application built using Flask, featuring a clean HTML-based interface. This project serves as a straightforward platform for managing transactions, combining 60.5% HTML for the front-end and 39.5% Python for the back-end functionality.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
