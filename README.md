@@ -17,8 +17,7 @@ The **Simple Transaction App** is a lightweight application built using Flask, f
 
 ```
 Simple-Transaction-App/
-├── __pycache__/
-│   └── app.cpython-311.pyc
+├── .gitignore
 ├── templates/
 │   ├── edit.html
 │   ├── form.html
