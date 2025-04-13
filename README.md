@@ -7,11 +7,17 @@ The **Simple Transaction App** is a lightweight application built using Flask, f
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Prequirements](#prerequirements)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Prerequirements
+
+![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above
+[Download here](https://www.python.org/downloads)
 
 ## Project Structure
 
@@ -48,6 +54,8 @@ To run this project locally, open the Terminal and follow these steps:
 2. Install the required dependencies:
 
     ```bash
+    python -m venv venv
+    source venv/bin/activate
     pip install -r requirements.txt
     ```
 
