@@ -16,7 +16,7 @@ The **Simple Transaction App** is a lightweight application built using Flask, f
 
 ## Prerequirements
 
-![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above
+![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above</br>
 [Download here](https://www.python.org/downloads)
 
 ## Project Structure
