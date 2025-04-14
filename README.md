@@ -16,8 +16,7 @@ The **Simple Transaction App** is a lightweight application built using Flask, f
 
 ## Prerequirements
 
-![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above</br>
-[Download here](https://www.python.org/downloads)
+- ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above: [Download here](https://www.python.org/downloads)
 
 ## Project Structure
 
@@ -76,17 +75,17 @@ This application will run locally at `http://127.0.0.1:5000`:
 On the webpage, there are **three** features you can try like `Add Transaction`, `Edit` and `Delete`:
 
 1. Add:</br>
-    <img width="100rem" alt="Add" src="https://github.com/user-attachments/assets/a7ead3dc-9553-486d-9aba-e7f650c309cb" />
+    <img width="600rem" alt="Add" src="https://github.com/user-attachments/assets/a7ead3dc-9553-486d-9aba-e7f650c309cb" />
 2. Edit:</br>
-    <img width="100rem" alt="Edit" src="https://github.com/user-attachments/assets/8f73e472-7175-4116-bd49-3c9fef2cdbda" />
-4. Delete:</br>
-    <img width="100rem" alt="Delete" src="https://github.com/user-attachments/assets/757fa2f5-9eb4-4664-89cb-423fdccfd1f5" />
+    <img width="600rem" alt="Edit" src="https://github.com/user-attachments/assets/8f73e472-7175-4116-bd49-3c9fef2cdbda" />
+3. Delete:</br>
+    <img width="600rem" alt="Delete" src="https://github.com/user-attachments/assets/757fa2f5-9eb4-4664-89cb-423fdccfd1f5" />
 
 Additionally, you can also use different routes, including `/search` and `/balance`.
 
-5. Search:</br>
+4. Search:</br>
     <img width="100rem" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
-6. Balance:</br>
+5. Balance:</br>
     <img width="100rem" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
 
 ## License
