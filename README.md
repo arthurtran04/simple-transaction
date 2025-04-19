@@ -36,7 +36,7 @@ Simple-Transaction-App/
 
 ## Features
 
-- Simple transaction application with Flask
+- Simple Transaction Application with Flask
 - Basic routing
 - Basic HTML, JavaScript and Bootstrap
 
