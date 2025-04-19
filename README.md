@@ -75,6 +75,8 @@ This application will run locally at `http://127.0.0.1:5000`:
 
 <img width="600rem" alt="Terminal" src="https://github.com/user-attachments/assets/db277f46-ce27-4e43-b608-78608aa9876c" />
 
+The UI:
+
 <img width="600rem" alt="Webpage" src="https://github.com/user-attachments/assets/e09c9aab-d7e0-4fcc-b853-882c553ec6a1" />
 
 On the webpage, there are **three** features you can try like `Add Transaction`, `Edit` and `Delete`:
