@@ -50,7 +50,13 @@ To run this project locally, open the Terminal and follow these steps:
     git clone https://github.com/arthurtran04/Simple-Transaction-App.git
     ```
 
-2. Install the required dependencies:
+2. Run the `cd` command to change the directory to `Simple-Transaction-App`:
+
+    ```bash
+    cd ./Simple-Transaction-App
+    ```
+    
+4. Create a Python virtual environment `venv` and install the required dependencies:
 
     ```bash
     python -m venv venv
@@ -60,10 +66,9 @@ To run this project locally, open the Terminal and follow these steps:
 
 ## Usage
 
-To start the Flask application, run the `cd` command to change the directory to `Simple-Transaction-App` and run the `app.py` file:
+To start the Flask application, run the `app.py` file:
 
    ```bash
-   cd ./Simple-Transaction-App
    python app.py
    ```
 This application will run locally at `http://127.0.0.1:5000`:
@@ -87,6 +92,8 @@ Additionally, you can also use different routes, including `/search` and `/balan
     <img width="100rem" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
 5. Balance:</br>
     <img width="100rem" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
+
+To stop the application, use `Ctrl + C` in the Terminal
 
 ## License
 
