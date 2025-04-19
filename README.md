@@ -42,7 +42,7 @@ Simple-Transaction-App/
 
 ## Installation
 
-To run this project locally, open the Terminal and follow these steps:
+To install this project, open your Terminal and follow these steps:
 
 1. Clone the repository:
 
@@ -89,9 +89,9 @@ On the webpage, there are **three** features you can try like `Add Transaction`,
 Additionally, you can also use different routes, including `/search` and `/balance`.
 
 4. Search:</br>
-    <img width="100rem" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
+    <img width="600rem" alt="Search" src="https://github.com/user-attachments/assets/b81a28c2-e35b-41c9-a547-94da554654ea" />
 5. Balance:</br>
-    <img width="100rem" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
+    <img width="600rem" alt="Balance" src="https://github.com/user-attachments/assets/16ca1e25-75cb-4169-8ca6-d644c194d9cb" />
 
 To stop the application, use `Ctrl + C` in the Terminal
 
