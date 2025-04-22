@@ -53,7 +53,7 @@ To install this project, open your Terminal and follow these steps:
 2. Run the `cd` command to change the directory to `Simple-Transaction-App`:
 
     ```bash
-    cd ./Simple-Transaction-App
+    cd "$(find . -type d -name "Simple-Transaction-App")"
     ```
     
 4. Create a Python virtual environment `venv` and install the required dependencies:
