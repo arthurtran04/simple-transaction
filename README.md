@@ -39,6 +39,7 @@ Simple-Transaction-App/
 - Simple Transaction Application with Flask
 - Basic routing
 - Basic HTML, JavaScript and Bootstrap
+- Using Pylint for code analysis
 
 ## Installation
 
