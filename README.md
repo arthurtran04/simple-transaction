@@ -21,7 +21,7 @@ The **Simple Transaction App** is a lightweight application built using Flask, f
 ## Project Structure
 
 ```
-Simple-Transaction/
+simple-transaction/
 ├── .gitignore
 ├── templates/
 │   ├── edit.html
@@ -48,13 +48,13 @@ To install this project, open your Terminal and follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/arthurtran04/Simple-Transaction.git
+    git clone https://github.com/arthurtran04/simple-transaction.git
     ```
 
-2. Run the `cd` command to change the directory to `Simple-Transaction`:
+2. Run the `cd` command to change the directory to `simple-transaction`:
 
     ```bash
-    cd "$(find . -type d -name "Simple-Transaction")"
+    cd "$(find . -type d -name "simple-transaction")"
     ```
     
 4. Create a Python virtual environment `venv` and install the required dependencies:
