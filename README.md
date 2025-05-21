@@ -47,20 +47,20 @@ To install this project, open your Terminal and follow these steps:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/arthurtran04/simple-transaction.git
+    ```sh
+    $ git clone https://github.com/arthurtran04/simple-transaction.git
     ```
 
 2. Run the `cd` command to change the directory to `simple-transaction`:
 
-    ```bash
-    cd "$(find . -type d -name "simple-transaction")"
+    ```sh
+    $ cd "$(find . -type d -name "simple-transaction")"
     ```
     
 4. Create a Python virtual environment `venv` and install the required dependencies:
 
-    ```bash
-    python -m venv venv
+    ```sh
+    $ python -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
     ```
@@ -69,8 +69,8 @@ To install this project, open your Terminal and follow these steps:
 
 To start the Flask application, run the `app.py` file:
 
-   ```bash
-   python app.py
+   ```sh
+   $ python app.py
    ```
 This application will run locally at `http://127.0.0.1:5000`:
 
