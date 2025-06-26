@@ -60,7 +60,7 @@ To install this project, open your Terminal and follow these steps:
 4. Create a Python virtual environment `venv` and install the required dependencies:
 
     ```sh
-    $ python -m venv venv
+    $ python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
     ```
