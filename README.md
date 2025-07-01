@@ -57,7 +57,7 @@ To install this project, open your Terminal and follow these steps:
     $ cd "$(find . -type d -name "simple-transaction")"
     ```
     
-4. Create a Python virtual environment `venv` and install the required dependencies:
+3. Create a Python virtual environment `venv` and install the required dependencies:
 
     ```sh
     $ python3 -m venv venv
